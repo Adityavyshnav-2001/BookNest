@@ -1,6 +1,4 @@
-# Let's create a README.md file with the provided content.
 
-readme_content = """
 # EBook-Management-System
 
 EBook-Management-System is a Java-based web application that allows users to browse, purchase, and resell eBooks while providing an admin interface for managing books, users, and orders. Built with JSP, Servlets, JDBC, and MySQL, this project utilizes MVC and DAO architectures to ensure a scalable and maintainable codebase.
